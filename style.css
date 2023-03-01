@@ -1,0 +1,51 @@
+h1 {
+    color: rgb(69, 69, 197);
+}
+
+#pic {
+    width: 35%%
+}
+
+#info{
+    line-height: 1.5em;
+}
+
+a{
+    text-decoration: none;
+    color: rbg(21, 21, 161);
+}
+
+a:hover{
+    color: brown;
+}
+
+/*set page background color */
+body{
+    background-color: rgb(250, 244, 235);
+    padding-left: 130px;
+    padding-right: 15px;  
+}
+/*margin is space between elements, padding is space betweem content and border*/
+
+h2{
+    color: rgb(69, 69, 197);
+    border-bottom: 1px solid rgb(69, 69, 197);
+    margin-top: 1.5em
+}
+
+.sidebar{
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    width: 110px;   
+    height: 100%;
+    background-color: rgb(120, 153, 182);
+    padding-left: 10px;
+    padding-top: 10px;
+    line-height: 1.75em;
+    font-size: 1.1em
+}
+
+
+
